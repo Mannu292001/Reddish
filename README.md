@@ -1,6 +1,9 @@
 # Reddish - MERN
 Reddish is an social news aggregation, content rating, and forum social network. Registered users submit content to the site such as links, text posts, images, and videos, which are then voted up or down by other members.
 
+![Screenshot 2024-03-03 230512](https://github.com/Mannu292001/Reddish/assets/107943260/4efc6502-5e34-40ca-bef5-1388e0b0d26e)
+![Screenshot 2024-03-03 230426](https://github.com/Mannu292001/Reddish/assets/107943260/6faa829c-6b1f-4cfd-b6c5-5a83f67d2a2a)
+
 ## Built using
 
 #### Front-end
